@@ -1,1 +1,0 @@
-function randomNum(n,o){return Math.floor(Math.random()*(o-n+1)+n)}
