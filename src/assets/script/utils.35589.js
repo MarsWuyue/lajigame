@@ -1,0 +1,1 @@
+function randomNum(r,n){return Math.floor(Math.random()*(n-r+1)+r)}function array_contain(r,n){for(var t=r.length;t--;)if(r[t]==n)return!0;return!1}
